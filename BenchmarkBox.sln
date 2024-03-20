@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BenchmarkBox", "BenchmarkBox.csproj", "{6CD7D299-5AFC-4179-84C1-B4C9F4CE8866}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CD7D299-5AFC-4179-84C1-B4C9F4CE8866}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{6CD7D299-5AFC-4179-84C1-B4C9F4CE8866}.Debug|anycpu.Build.0 = Debug|anycpu
+		{6CD7D299-5AFC-4179-84C1-B4C9F4CE8866}.Release|anycpu.ActiveCfg = Release|anycpu
+		{6CD7D299-5AFC-4179-84C1-B4C9F4CE8866}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
